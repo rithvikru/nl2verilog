@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+output/
+generated/
+*.vcd
+*.hoa
+*.aag
+*.aig
+
+# Temporary files
+*.tmp
+*.log
+synthesis.sh
+
+# macOS
+.DS_Store 
